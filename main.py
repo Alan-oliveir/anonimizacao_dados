@@ -33,7 +33,7 @@ def generalize_value(value):
 
 def anonimizar_dados():
     # Conectar ao banco de dados
-    conn = pyodbc.connect('DRIVER={SQL SERVER}; SERVER=ALAN_PC\SQLEXPRESS; DATABASE=PYSQL')
+    conn = pyodbc.connect('DRIVER={SQL SERVER}; SERVER=NOME_PC\SQLEXPRESS; DATABASE=PYSQL')
     cursor = conn.cursor()
     # Selecionar todos os registros da tabela que deseja anonimizar
     cursor.execute("SELECT * FROM Clientes")
