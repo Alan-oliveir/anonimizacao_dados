@@ -1,7 +1,5 @@
 # Anonimização de Dados
-A anonimização de dados refere-se ao processo de transformação de
-dados pessoais identificáveis de modo que não possam ser associados a um
-indivíduo específico, tornando-os anônimos.
+A anonimização de dados refere-se ao processo de transformação de dados pessoais identificáveis de modo que não possam ser associados a um indivíduo específico, tornando-os anônimos.
 
 # Pseudoanonimização
 A LGPD a define como o tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a m indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro.
@@ -21,4 +19,12 @@ ___
 - Generalização
 - Criptografia
 
-Atividade do curso Anonimização de Dados com Python.
+### Ferramentas utilizadas
+
+- Banco de dados: SQL Server
+- IDE: PyCharm
+- Biblioteca: pyODBC
+___
+
+## Atividade 
+Aplicação python que implementa as técnicas de anonimização na base de dados, protegendo informações pessoais dos clientes.
