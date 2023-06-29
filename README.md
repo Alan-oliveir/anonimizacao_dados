@@ -14,6 +14,7 @@ Este processo deve ser conduzido de acordo com as regulamentações de proteçã
 Mas é importante ressaltar que, embora esta seja uma estratégia eficaz para proteger a privacidade de um indivíduo, esta prática não garante uma proteção absoluta contra a 
 reidentificação. Por meio de técnicas de análise e correlação de dados, é possível que informações aparentemente anônimas possam ser reassociadas a um indivíduo específico, tornando essencial a adoção de medidas extras de segurança, como o controle de acesso e a criptografia para complementar o processo de anonimização e fortalecer a proteção dos dados.
 
+___
 ### Técnicas de anonimização
 
 - Mascaramento
