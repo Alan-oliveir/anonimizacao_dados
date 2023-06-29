@@ -26,5 +26,11 @@ ___
 - Biblioteca: pyODBC
 ___
 
-## Atividade 
+## Atividade desenvolvida no curso
 Aplicação python que implementa as técnicas de anonimização na base de dados, protegendo informações pessoais dos clientes.
+
+# Agradecimentos
+
+- Curso: Anonimização de Dados com Python
+- Realização: Facti - https://qualifacti.facti.com.br/
+- Instrutora: Adriana da Silva Nogueira
